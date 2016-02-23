@@ -1,2 +1,3 @@
 # hello-world
-Sample repository
+
+This is a sample modification to test out Git
